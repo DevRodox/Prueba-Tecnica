@@ -1,6 +1,7 @@
 # Proyecto: Página Web Estática
 
 Este repositorio contiene el desarrollo de una página web estática como parte de una prueba técnica. El proyecto aplica conocimientos de HTML, CSS, JavaScript, consumo de APIs y uso de Git.
+[Pagina desplegada](https://devrodox.github.io/Prueba-Tecnica/)
 
 ## Objetivo
 Crear una landing page que cumpla con los siguientes requerimientos:
